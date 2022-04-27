@@ -1,5 +1,6 @@
 stable-baselines3[extra]
 pyglet
+box2d-py
 PyVirtualDisplay
 PyOpenGL==3.1.*
 PyOpenGL-accelerate==3.1.*
